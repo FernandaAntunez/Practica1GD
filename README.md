@@ -1,11 +1,10 @@
-# Practica1GD
-Práctica 1: Sistema de Lotka-Volterra
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica1GD)
 
 # Práctica 1: Sistema de Lotka-Volterra
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Fernanda Antunez \[22211745]; L22211745@tijuana.tecn.mx
 
 Gemelos Digitales
 
